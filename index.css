@@ -1,0 +1,8 @@
+#myCanvas-div {
+	//-webkit-border-radius: 50%;
+  //border-radius: 50%;
+  height: 500px;
+  width : 500px;
+  overflow: hidden;
+	background-color: white;
+}
